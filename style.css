@@ -1,0 +1,35 @@
+.kotak{
+    border: 1px solid black;
+    padding: 5px;
+    
+}
+
+.kotak2{
+    border: 1px solid black
+}
+
+.pilihan{
+    position: absolute;
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    height: 300px;
+    border: 1px solid black
+}
+
+
+.kotak3{
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 179px;
+    text-align: center;
+    width: 75%;
+    border: 1px solid black    
+    }
+
+.bawah{
+    width: 100%;
+    border: 1px solid black
+    
+}
